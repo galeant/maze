@@ -38,7 +38,8 @@ class TestController extends Controller
         }
         return $ar;
     }
-    // prototype
+
+    #### prototype #####
     public function mazeMap2($input = 15,$pmasuk = 2){
         $input = 15;
         $ar = [];

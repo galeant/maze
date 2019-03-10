@@ -2,7 +2,7 @@
     S: <br />
     <input type="number" name="length" max=150 /><br />
     Pintu masuk: <br />
-    <input type="number" name="masuk" max=25><br />
+    <!-- <input type="number" name="masuk" max=25><br /> -->
     <input type="submit"/><br />
 </form>
 <div style="width:100%">
