@@ -15,4 +15,5 @@
             <div style="width:10px;height:10px;background-color:white;float:left"></div>
         @endif
     @endforeach
+    </div>
 @endforeach
